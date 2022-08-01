@@ -7,7 +7,7 @@ This is the Italian presentation of the thesis project entitled *Blockchain-base
 <img width="1064" alt="Schermata 2022-08-01 alle 13 21 28" src="https://user-images.githubusercontent.com/57445485/182137648-8c0d80cd-b82c-4aed-a252-e69caee458e6.png">
 <img width="1064" alt="Schermata 2022-08-01 alle 13 21 35" src="https://user-images.githubusercontent.com/57445485/182137653-aeb04521-b283-4904-847f-d298d37fac5a.png">
 <img width="1064" alt="Schermata 2022-08-01 alle 13 21 41" src="https://user-images.githubusercontent.com/57445485/182137656-fa2b2b97-41af-4d08-918c-f6690bcbaa45.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 21 46" src="https://user-images.githubusercontent.com/57445485/182137658-764fb5e8-72c4-4c66-a203-b7824683a0c8.png">
+<img width="1062" alt="Schermata 2022-08-01 alle 13 48 35" src="https://user-images.githubusercontent.com/57445485/182141627-20822572-6ded-47d8-a2b0-6d540c026d42.png">
 <img width="1064" alt="Schermata 2022-08-01 alle 13 21 52" src="https://user-images.githubusercontent.com/57445485/182137661-455e60e9-9ab4-48ae-bab1-1611dca3b321.png">
 <img width="1064" alt="Schermata 2022-08-01 alle 13 21 58" src="https://user-images.githubusercontent.com/57445485/182137665-f54ad7fc-a82b-4b0e-ba40-20f1943e7dc2.png">
 <img width="1064" alt="Schermata 2022-08-01 alle 13 22 04" src="https://user-images.githubusercontent.com/57445485/182137668-60574076-f752-49af-ab11-e988e7a351bc.png">
