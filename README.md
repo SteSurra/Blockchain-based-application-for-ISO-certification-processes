@@ -1,21 +1,21 @@
 # Blockchain-based-application-for-ISO-certification-processes-Presentation ITA
 
+This is the presentation in Italian of the thesis project "Blockchain-based application for ISO certification processes" of the year 2021/2022.
 
-
-<img width="1064" alt="Schermata 2022-08-01 alle 13 12 20" src="https://user-images.githubusercontent.com/57445485/182136858-a8e6e0c8-9e64-453e-9834-9f216e09c676.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 16 37" src="https://user-images.githubusercontent.com/57445485/182136883-6d39f890-108b-4570-b003-948cc95359b2.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 16 42" src="https://user-images.githubusercontent.com/57445485/182136916-c686dcd5-b847-4fae-8f22-ab2bca579e91.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 16 45" src="https://user-images.githubusercontent.com/57445485/182136919-93c215d7-07fb-4bb0-b9fe-0afff1a2a8b6.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 16 48" src="https://user-images.githubusercontent.com/57445485/182136921-ce7237da-7294-4bdf-89e1-c39c1de9f43e.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 16 51" src="https://user-images.githubusercontent.com/57445485/182136924-cea1957a-e697-473a-9a70-994122f5c214.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 16 54" src="https://user-images.githubusercontent.com/57445485/182136925-ccacf5e7-2807-41ab-bbe1-eaa219fa6e95.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 16 58" src="https://user-images.githubusercontent.com/57445485/182136928-a1119929-9416-4540-bb9d-2ec6198c5531.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 17 01" src="https://user-images.githubusercontent.com/57445485/182136932-0c31c4e2-5e3f-4d62-8cd0-b996715b15e8.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 17 03" src="https://user-images.githubusercontent.com/57445485/182136936-bcf05f73-067f-494d-8b6c-81666b2427ab.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 17 06" src="https://user-images.githubusercontent.com/57445485/182136941-43b750cc-8fdb-4e2e-a353-1789f506400b.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 17 10" src="https://user-images.githubusercontent.com/57445485/182136943-d196e543-baf2-4036-8b4c-86084f91bd45.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 17 13" src="https://user-images.githubusercontent.com/57445485/182136946-5c84e05d-7843-4864-b003-67e6741a7a40.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 17 16" src="https://user-images.githubusercontent.com/57445485/182136948-d78e7f61-a058-4e0b-9126-65a6c69cf0f3.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 17 19" src="https://user-images.githubusercontent.com/57445485/182136949-6b7933e2-8216-4412-8945-8e92b75abb55.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 17 22" src="https://user-images.githubusercontent.com/57445485/182136952-698d9094-222e-4c3c-8e21-3f7de0ecdd00.png">
-<img width="1064" alt="Schermata 2022-08-01 alle 13 17 29" src="https://user-images.githubusercontent.com/57445485/182136958-fb8b4852-6314-40bd-a2d3-d532b6d40f2f.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 21 12" src="https://user-images.githubusercontent.com/57445485/182137628-213af833-61a9-4928-a6dc-54559108903e.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 21 21" src="https://user-images.githubusercontent.com/57445485/182137643-a1fde0e1-a9aa-484c-aa81-b2cc192da8a7.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 21 28" src="https://user-images.githubusercontent.com/57445485/182137648-8c0d80cd-b82c-4aed-a252-e69caee458e6.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 21 35" src="https://user-images.githubusercontent.com/57445485/182137653-aeb04521-b283-4904-847f-d298d37fac5a.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 21 41" src="https://user-images.githubusercontent.com/57445485/182137656-fa2b2b97-41af-4d08-918c-f6690bcbaa45.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 21 46" src="https://user-images.githubusercontent.com/57445485/182137658-764fb5e8-72c4-4c66-a203-b7824683a0c8.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 21 52" src="https://user-images.githubusercontent.com/57445485/182137661-455e60e9-9ab4-48ae-bab1-1611dca3b321.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 21 58" src="https://user-images.githubusercontent.com/57445485/182137665-f54ad7fc-a82b-4b0e-ba40-20f1943e7dc2.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 22 04" src="https://user-images.githubusercontent.com/57445485/182137668-60574076-f752-49af-ab11-e988e7a351bc.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 22 10" src="https://user-images.githubusercontent.com/57445485/182137670-617ccad5-86b4-4c88-9a25-0c6ece40f9e0.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 22 15" src="https://user-images.githubusercontent.com/57445485/182137672-3ae7e131-fca8-48f5-9536-0d869a0c0ce9.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 22 21" src="https://user-images.githubusercontent.com/57445485/182137673-e4539762-1eb4-4f6e-a5aa-1a164d22ba5e.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 22 29" src="https://user-images.githubusercontent.com/57445485/182137676-3ed97b58-3152-4257-ab86-f56496952729.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 22 34" src="https://user-images.githubusercontent.com/57445485/182137677-065b911a-f047-4254-b32c-adc04131a940.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 22 40" src="https://user-images.githubusercontent.com/57445485/182137681-7f97a157-cd56-41a2-9109-740632a45c1a.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 22 46" src="https://user-images.githubusercontent.com/57445485/182137684-8000cc47-8172-4654-bb6e-c76c273f0785.png">
+<img width="1064" alt="Schermata 2022-08-01 alle 13 22 51" src="https://user-images.githubusercontent.com/57445485/182137686-d9ddf8ea-ebb1-4bf2-9528-bd158ad7bd77.png">
