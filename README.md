@@ -5,4 +5,3 @@ This is the thesis project entitled *Blockchain-based application for ISO certif
 The contents of the folder are as follows:
 
 - Presentation ITA
-- Summary ITA
